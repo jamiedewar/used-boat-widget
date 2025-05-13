@@ -1,0 +1,22 @@
+[
+  {
+    "id": "A001",
+    "name": "SN-12345",
+    "price": 41900,
+    "description": "Well-maintained fishing boat with trailer included.",
+    "image": "https://example.com/images/legend-x18.jpg",
+    "year": 2022,
+    "make": "Legend",
+    "model": "X18"
+  },
+  {
+    "id": "A002",
+    "name": "SN-67890",
+    "price": 35900,
+    "description": "Pontoon with upgraded audio system and bimini top.",
+    "image": "https://example.com/images/kuhl-pontoon.jpg",
+    "year": 2021,
+    "make": "Vetta",
+    "model": "Kuhl 20"
+  }
+]
